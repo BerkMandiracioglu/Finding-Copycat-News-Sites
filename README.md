@@ -21,5 +21,5 @@ For news dataset:
 python news_lsh.py
 
 ```
-###Note:
+### Note:
 For now, news dataset could not be uploaded to Github because it is 300mb which exceeds the upper limit 100mb
